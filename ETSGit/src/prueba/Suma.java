@@ -9,8 +9,8 @@ public class Suma {
 		this.b = y;
 	}
 
-	public int boli() {
-		return a + b;
+	public int bolimodif() {
+		return a * b;
 	}
 	
 	public int resta() {
