@@ -13,9 +13,7 @@ public class Suma {
 		return a * b;
 	}
 	
-	public int resta() {
-		return a - b;
-	}
+	
 	
 	public int multi() {
 		return a * b;
