@@ -16,7 +16,7 @@ public class Suma {
 	
 	
 	public int multi() {
-		return a * b;
+		return a / b;
 	}
 	
 	public int division() {
